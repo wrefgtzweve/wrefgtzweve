@@ -1,6 +1,6 @@
-[![Wref's github stats](https://github-readme-stats.vercel.app/api?username=wrefgtzweve&count_private=false&show_icons=true&hide_rank=false&hide=issues&hide_border=true&text_color=0298f7&bg_color=0f0e29&icon_color=f528f7&title_color=6cd5ff)](https://github.com/wrefgtzweve)
+[![Wref's github stats](https://github-readme-stats.vercel.app/api?username=wrefgtzweve&count_private=false&show_icons=true&hide_rank=false&hide=issues&hide_border=true&text_color=6cd5ff&bg_color=0f0e29&icon_color=f528f7&title_color=0298f7)](https://github.com/wrefgtzweve)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrefgtzweve&text_color=0298f7&bg_color=0f0e29&icon_color=f528f7&title_color=6cd5ff&hide_border=true
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrefgtzweve&hide_border=true&text_color=6cd5ff&bg_color=0f0e29&icon_color=f528f7&title_color=0298f7
 )](https://github.com/wrefgtzweve)
 
 <!--

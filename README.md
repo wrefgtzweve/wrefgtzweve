@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Wref's github stats](https://github-readme-stats.vercel.app/api?username=wrefgtzweve&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&hide=issues&hide_border=true)](https://github.com/wrefgtzweve)
+[![Wref's github stats](https://github-readme-stats.vercel.app/api?username=wrefgtzweve&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&hide=issues&hide_border=true&text_color=0298f7&bg_color=0f0e29&icon_color=f528f7&title_color=6cd5ff)](https://github.com/wrefgtzweve)
 
 <!--
 **wrefgtzweve/wrefgtzweve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

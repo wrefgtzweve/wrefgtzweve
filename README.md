@@ -12,13 +12,13 @@
         alt=""
     />
     <img
-        src="https://github.com/wrefgtzweve/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only"
+        src="https://github.com/wrefgtzweve/github-stats/blob/master/generated/overview.svg#gh-light-mode-only"
         width="360"
         height="210"
         alt=""
     />
     <img
-        src="https://github.com/wrefgtzweve/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only"
+        src="https://github.com/wrefgtzweve/github-stats/blob/master/generated/languages.svg#gh-light-mode-only"
         width="360"
         height="210"
         alt=""
